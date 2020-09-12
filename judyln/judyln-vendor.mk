@@ -170,8 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/firmware/crnv21.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/crnv21.bin \
     vendor/lge/judyln/proprietary/vendor/firmware/leia_pfp_470.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/leia_pfp_470.fw \
     vendor/lge/judyln/proprietary/vendor/firmware/leia_pm4_470.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/leia_pm4_470.fw \
-    vendor/lge/judyln/proprietary/vendor/lib/libpn553_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn553_fw.so \
-    vendor/lge/judyln/proprietary/vendor/lib64/libpn553_fw_64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn553_fw_64.so \
     vendor/lge/judyln/proprietary/vendor/lib/camera/com.qti.sensor.imx351.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx351.so \
     vendor/lge/judyln/proprietary/vendor/lib/camera/com.qti.sensor.imx351_wide.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx351_wide.so \
     vendor/lge/judyln/proprietary/vendor/lib/camera/com.qti.sensor.sl846.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.sl846.so \
@@ -332,7 +330,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/lib/libfpfactory-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfpfactory-impl.so \
     vendor/lge/judyln/proprietary/vendor/lib/libfpfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfpfactory.so \
     vendor/lge/judyln/proprietary/vendor/lib/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_algo.so \
-    vendor/lge/judyln/proprietary/vendor/lib/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_ca.so \
     vendor/lge/judyln/proprietary/vendor/lib/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_hal.so \
     vendor/lge/judyln/proprietary/vendor/lib/libhdcp1prov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdcp1prov.so \
     vendor/lge/judyln/proprietary/vendor/lib/libhdcp2p2prov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdcp2p2prov.so \
@@ -476,7 +473,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/lib64/libfpfactory-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory-impl.so \
     vendor/lge/judyln/proprietary/vendor/lib64/libfpfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory.so \
     vendor/lge/judyln/proprietary/vendor/lib64/libgf_algo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_algo.so \
-    vendor/lge/judyln/proprietary/vendor/lib64/libgf_ca.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_ca.so \
     vendor/lge/judyln/proprietary/vendor/lib64/libgf_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgf_hal.so \
     vendor/lge/judyln/proprietary/vendor/lib64/libhdcp1prov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcp1prov.so \
     vendor/lge/judyln/proprietary/vendor/lib64/libhdcp2p2prov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcp2p2prov.so \
