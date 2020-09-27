@@ -305,6 +305,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/judyln/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
     vendor/lge/judyln/proprietary/vendor/lib/libSJVideoNR.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSJVideoNR.so \
     vendor/lge/judyln/proprietary/vendor/lib/libStDrvInt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libStDrvInt.so \
+    vendor/lge/judyln/proprietary/vendor/lib/lib_wdr2.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_wdr2.so \
     vendor/lge/judyln/proprietary/vendor/lib/libarcsoft_beauty_picselfie.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beauty_picselfie.so \
     vendor/lge/judyln/proprietary/vendor/lib/libarcsoft_dualcam_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus.so \
     vendor/lge/judyln/proprietary/vendor/lib/libarcsoft_picselfie_algorithm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_picselfie_algorithm.so \
